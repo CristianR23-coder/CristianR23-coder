@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario">GitHub</a> • 
-  <a href="(tu-linkedin)">LinkedIn</a>
+  <a href="https://github.com/CristianR23-coder">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/cristian-daniel-ramirez-vega-17783a3b9/">LinkedIn</a>
 </p>
 
 <p align="center">
