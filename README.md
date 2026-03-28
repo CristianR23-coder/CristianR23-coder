@@ -55,7 +55,7 @@ REST APIs · JWT Authentication · Sequelize ORM · MVC Architecture · Git
 
 Aplicación web fullstack diseñada para la gestión de procesos de laboratorio clínico, enfocada en escalabilidad, modularidad y seguridad.
 
-🔗 Repository: https://github.com/tu-usuario/lab-system
+🔗 Repository: [ProyectoLabClinico](https://github.com/CristianR23-coder/ProyectoLabClinico)
 
 ---
 
@@ -116,8 +116,8 @@ Seguir creciendo como desarrollador y especializarme en la construcción de sist
 
 ## 📫 Contacto
 
-- LinkedIn: [(tu link)](https://www.linkedin.com/in/cristian-daniel-ramirez-vega-17783a3b9/)
-- GitHub: [https://github.com/tu-usuario](https://github.com/CristianR23-coder)
+- LinkedIn: [(Cristian Ramirez)](https://www.linkedin.com/in/cristian-daniel-ramirez-vega-17783a3b9/)
+- GitHub: [CristianR23-coder](https://github.com/CristianR23-coder)
 
 ---
 
