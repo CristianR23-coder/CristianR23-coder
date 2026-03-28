@@ -116,7 +116,7 @@ Seguir creciendo como desarrollador y especializarme en la construcción de sist
 
 ## 📫 Contacto
 
-- LinkedIn: [(Cristian Ramirez)](https://www.linkedin.com/in/cristian-daniel-ramirez-vega-17783a3b9/)
+- LinkedIn: [Cristian Ramirez](https://www.linkedin.com/in/cristian-daniel-ramirez-vega-17783a3b9/)
 - GitHub: [CristianR23-coder](https://github.com/CristianR23-coder)
 
 ---
